@@ -49,7 +49,6 @@ for more details visit-https://www.healthline.com/health/body-water-percentage
 - Detailed statstics & record  of your drink. 
 - Daily weather access
 - Responsive UI
-- MVVM (Model-View-View-Model)
 - Alarm Manager
 - Fullscreen mode
 - Cross platform
